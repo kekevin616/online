@@ -1,4 +1,4 @@
-# Master the Aviator Game with the Aviator Predictor: A 2025 Guide
+# Master the Aviator Game with the Aviator Predictor
 
 The Aviator Game is an interesting online game in which the participants gamble on the height of the plane. The more the plane rises, the more profits you can get. All in good time before the plane takes off. This combination of luck and timing makes it very appealing to online players.
 
